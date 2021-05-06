@@ -11,7 +11,7 @@ email: justin.h.chae@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Personal Site of Justin H. Chae
 
-baseurl: "/cards" # the subpath of your site, e.g. /blog
+baseurl: "/posts" # the subpath of your site, e.g. /blog
 url: "https://justinhchae.github.io/" # the base hostname & protocol for your site
 
 #sidebar
