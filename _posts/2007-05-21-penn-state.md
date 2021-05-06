@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BS in IST, Penn State"
+title: "BS in IST at Penn State"
 date: 2007-05-21
 ---
 
