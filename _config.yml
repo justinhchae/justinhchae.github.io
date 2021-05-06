@@ -1,3 +1,7 @@
 name: Justin H. Chae
 markdown: kramdown
 permalink: /career/:year/:month/:day/:title
+# Ruby Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
