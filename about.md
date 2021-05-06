@@ -10,5 +10,5 @@ and research fellow at
 [Chicago Appleseed](https://www.chicagoappleseed.org/about-us/our-staff/).
 
 I have a diverse professional, academic, and military background in information technology, 
-cybersecurity compliance, U.S. Army acquisition and program management, 
+cybersecurity compliance, U.S. Army acquisition and program management, intellectual property
 geographic information systems, language modeling, and criminal justice research.
