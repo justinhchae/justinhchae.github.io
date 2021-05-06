@@ -19,7 +19,7 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 copyright:
-   name: @justinhchae
+   name: justinhchae
    link: https://twitter.com/justinhchae
 
 # Build settings
