@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Justin Chae Portfolio"
-date: 2021-05-06
+title: "BS Penn State"
+date: 2007-05-21
 ---
 
-Test post
+Graduated from Penn State with a B.S. in Information Sciences and Technology
