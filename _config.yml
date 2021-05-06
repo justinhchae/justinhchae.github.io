@@ -5,3 +5,6 @@ permalink: /career/:year/:month/:day/:title
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+# Sass style
+sass:
+  style: compressed
