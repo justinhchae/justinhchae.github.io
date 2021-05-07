@@ -5,5 +5,5 @@ date:   2020-05-01
 categories: work
 image: /images/bitmoji_justin_5.png
 ---
-Blogging about technology and programming on medium.com. 
+Blogging about technology and programming at [https://justinhchae.medium.com/](https://justinhchae.medium.com/).
 
