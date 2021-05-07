@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "MS Law"
+categories: education
+image: /images/image-2.png
+---
+
+Graduated from Northwestern Law School with a Master of Science in Law.
+Studied securities regulation, diffusion of innovation, and intellectual property law.
