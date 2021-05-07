@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Blogger"
+date:   2020-05-01
+categories: projects
+image: /images/bitmoji_justin_5.png
+---
+Blogging about technology and programming on medium.com. 
+
