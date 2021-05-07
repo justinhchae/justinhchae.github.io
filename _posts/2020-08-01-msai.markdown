@@ -3,7 +3,7 @@ layout: post
 title:  "MS Artificial Intelligence"
 date:   2020-08-01
 categories: education
-image: /images/image-1.png
+image: /images/bitmoji_justin_3.png
 ---
 Full-time student at Northwestern McCormick School of Engineering.
 Currently researching language modeling and theoretical foundations of data science.
