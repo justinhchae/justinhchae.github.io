@@ -5,5 +5,5 @@ date:   2020-08-01
 categories: education
 image: /images/bitmoji_justin_3.png
 ---
-Full-time student at Northwestern McCormick School of Engineering.
+Full-time student at [Northwestern McCormick School of Engineering](https://www.mccormick.northwestern.edu/artificial-intelligence/people/students/2020-21/justin-chae.html).
 Currently researching language modeling and theoretical foundations of data science.
