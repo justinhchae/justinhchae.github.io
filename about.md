@@ -2,7 +2,7 @@
 layout: page
 title: About Justin
 permalink: /about/
-image: /images/bitmoji_justin_1.png
+image: /images/bitmoji_justin_2.png
 ---
 
 I am currently a Master's student in artificial intelligence at 
