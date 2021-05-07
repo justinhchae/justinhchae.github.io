@@ -3,7 +3,7 @@ layout: post
 title:  "Soldier"
 date:   2007-05-01
 categories: work
-image: /images/bitmoji_justin_6.png
+image: /images/bitmoji_justin_7.png
 ---
 A military officer in the U.S. Army reserve working as an assistant program manager. 
 
