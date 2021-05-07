@@ -4,7 +4,6 @@ title:  "MS Artificial Intelligence"
 date:   2020-08-01
 categories: education
 image: /images/image-1.png
-categories: [one, two]
 ---
 Full-time student at Northwestern McCormick School of Engineering.
 
