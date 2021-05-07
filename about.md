@@ -7,7 +7,7 @@ image: /images/bitmoji_justin_2.png
 
 I am currently a Master's student pursuing a degree in artificial intelligence at 
 [Northwestern University](https://www.mccormick.northwestern.edu/artificial-intelligence/people/students/2020-21/justin-chae.html)
-and research fellow at
+and a research fellow at
 [Chicago Appleseed](https://www.chicagoappleseed.org/about-us/our-staff/).
 
 My current academic focus is in the field of natural language processing.
