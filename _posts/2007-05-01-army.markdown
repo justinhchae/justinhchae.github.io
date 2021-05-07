@@ -5,6 +5,6 @@ date:   2020-05-01
 categories: work
 image: /images/bitmoji_justin_6.png
 ---
-Military officer in the U.S. Army reserve working as an assistant program manager. 
+A military officer in the U.S. Army reserve working as an assistant program manager. 
 
 
