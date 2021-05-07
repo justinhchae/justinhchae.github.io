@@ -2,7 +2,7 @@
 layout: post
 title:  "MS Law"
 categories: education
-image: /images/image-2.png
+image: /images/bitmoji_justin_4.png
 ---
 
 Graduated from Northwestern Law School with a Master of Science in Law.
