@@ -15,3 +15,5 @@ My current academic focus is in the field of natural language processing.
 I have a diverse professional, academic, and military background in information technology, 
 cybersecurity compliance, U.S. Army acquisition and program management, intellectual property law,
 geographic information systems, language modeling, and criminal justice research.
+
+
