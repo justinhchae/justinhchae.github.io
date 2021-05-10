@@ -4,6 +4,7 @@ title:  "Blogger"
 date:   2020-05-01
 categories: work
 image: /images/bitmoji_justin_5.png
+post_type: career
 ---
 Blogging about technology and programming at [justinhchae.medium.com](https://justinhchae.medium.com/).
 
